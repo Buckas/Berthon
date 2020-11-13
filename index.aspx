@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet" href="RaceStyle.css" />
+    <link rel="stylesheet" href="style.css" />
     <meta charset="utf-8" />
     <title>Race across the Senior School</title>
 </head>
